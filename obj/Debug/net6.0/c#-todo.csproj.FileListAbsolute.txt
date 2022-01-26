@@ -1,0 +1,15 @@
+/home/tonwareemi/projects/c#-todo/obj/Debug/net6.0/c#-todo.csproj.AssemblyReference.cache
+/home/tonwareemi/projects/c#-todo/obj/Debug/net6.0/c#-todo.GeneratedMSBuildEditorConfig.editorconfig
+/home/tonwareemi/projects/c#-todo/obj/Debug/net6.0/c#-todo.AssemblyInfoInputs.cache
+/home/tonwareemi/projects/c#-todo/obj/Debug/net6.0/c#-todo.AssemblyInfo.cs
+/home/tonwareemi/projects/c#-todo/obj/Debug/net6.0/c#-todo.csproj.CoreCompileInputs.cache
+/home/tonwareemi/projects/c#-todo/bin/Debug/net6.0/c#-todo
+/home/tonwareemi/projects/c#-todo/bin/Debug/net6.0/c#-todo.deps.json
+/home/tonwareemi/projects/c#-todo/bin/Debug/net6.0/c#-todo.runtimeconfig.json
+/home/tonwareemi/projects/c#-todo/bin/Debug/net6.0/c#-todo.dll
+/home/tonwareemi/projects/c#-todo/bin/Debug/net6.0/ref/c#-todo.dll
+/home/tonwareemi/projects/c#-todo/bin/Debug/net6.0/c#-todo.pdb
+/home/tonwareemi/projects/c#-todo/obj/Debug/net6.0/c#-todo.dll
+/home/tonwareemi/projects/c#-todo/obj/Debug/net6.0/ref/c#-todo.dll
+/home/tonwareemi/projects/c#-todo/obj/Debug/net6.0/c#-todo.pdb
+/home/tonwareemi/projects/c#-todo/obj/Debug/net6.0/c#-todo.genruntimeconfig.cache
